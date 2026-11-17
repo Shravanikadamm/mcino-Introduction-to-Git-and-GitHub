@@ -1,0 +1,14 @@
+git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+git merge bug-fix-typo
+Updating 27a9ad7..a5536c0
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+git push origin main
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Shravanikadamm/mcino-Introduction-to-Git-and-GitHub.git
+   27a9ad7..a5536c0  main -> main
